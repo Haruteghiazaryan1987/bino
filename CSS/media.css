@@ -1,0 +1,157 @@
+@media screen and (max-width: 960px) {
+    .carousel_content_h1 {
+        font-size: 50px;
+    }
+    .head {
+        height: 800px;
+        position: relative;
+    }
+    .img_background {
+        height: 840px;
+    }
+    .anchor {
+        margin-top: 800px;
+    }
+
+    .margin_top_200 {
+        margin-top: 150px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .carousel_content_p {
+        font-size: 18px;
+    }
+    .carousel_content_h1 {
+        font-size: 35px;
+    }
+    .carousel_content_p2 {
+        max-width: 400px;
+        font-size: 11px;
+    }
+    .GET_STARTED_NOW {
+        font-size: 12px;
+        width: 160px;
+        height: 40px;
+        margin: 20px 15px;
+    }
+    .margin_top_200 {
+        margin-top: 100px;
+    }
+    .head {
+        height: 600px;
+        position: relative;
+    }
+    .img_background {
+        height: 640px;
+    }
+    .anchor {
+        margin-top: 610px;
+        width: 55px;
+        height: 55px;
+    }
+    .anchor .fa-anchor {
+        font-size: 25px;
+        color: red;
+        margin-left: -3px;
+    }
+    .vert_slide {
+        width: 100%;
+    }
+    .button_in_slider {
+        right: -85px;
+    }
+    .margin_bot {
+        margin-bottom: 50px;
+    }
+
+    .gradient {
+        background: rgb(253, 45, 45);
+        background: linear-gradient(0deg, rgba(253, 45, 45, 0) 100%, rgba(253, 45, 45, 1) 100%);
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .div_bg_red {
+        /* width: 100%; */
+        /* height: 50%; */
+    }
+}
+@media screen and (max-width: 569px) {
+    .gradient {
+        height: 1000px;
+    }
+}
+@media screen and (max-width: 540px) {
+    .carousel_content_p {
+        font-size: 13px;
+    }
+    .carousel_content_h1 {
+        font-size: 25px;
+    }
+    .carousel_content_p2 {
+        max-width: 200px;
+        font-size: 9px;
+    }
+    .GET_STARTED_NOW {
+        font-size: 10px;
+        width: 140px;
+        height: 35px;
+        margin: 10px 15px;
+    }
+    .margin_top_200 {
+        margin-top: 40px;
+    }
+    .head {
+        height: 500px;
+        position: relative;
+    }
+    .img_background {
+        height: 540px;
+    }
+    .anchor {
+        margin-top: 510px;
+    }
+    .left,
+    .right {
+        width: 20px;
+        height: 20px;
+        background-color: #6f6863;
+        color: whitesmoke;
+    }
+    .slider {
+        margin-right: 100px;
+    }
+    .vert_slide {
+        padding-right: 0;
+    }
+    .title_h2_our_services {
+        max-width: 262px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0;
+    }
+    .bg_class {
+        min-height: unset;
+    }
+    .our_services {
+        min-height: unset;
+    }
+    .button_in_slider {
+        width: 55px;
+        height: 55px;
+    }
+    .button_in_slider .slide_icons {
+        font-size: 25px;
+        color: red;
+        margin-left: -5px;
+    }
+    .square_slider {
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 389px) {
+    .gradient {
+        height: 1520px;
+    }
+}
